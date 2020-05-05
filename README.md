@@ -3,7 +3,7 @@
 ## Installation
 
 ```sh
-pip install ____________________ # TODO: update with specific command
+pip install -i https://test.pypi.org/simple/ lambdata-14==1.0
 ```
 
 ## Usage
