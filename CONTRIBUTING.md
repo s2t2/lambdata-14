@@ -17,3 +17,9 @@ pipenv shell
 python -m my_lambdata.my_script
 python -m my_lambdata.my_mod
 ```
+
+## Testing
+
+```sh
+python -m test.my_mod_test
+```
